@@ -1,0 +1,15 @@
+{"instruction": "What does KYC stand for?", "output": "KYC stands for Know Your Customer."}
+{"instruction": "Why do banks do KYC?", "output": "Banks do KYC to confirm who their clients are and to prevent fraud, money laundering and terrorist financing. It is also a legal requirement."}
+{"instruction": "What are the main steps of KYC when onboarding a client?", "output": "Collect the client's information, verify their identity, identify the real owners for companies, check sanctions and PEP lists, assess the risk level, approve or refuse the account, then monitor the client over time."}
+{"instruction": "What documents does an individual need to open a bank account?", "output": "Usually a valid ID card or passport and a recent proof of address, such as a utility bill."}
+{"instruction": "What documents does a company need to open a bank account?", "output": "A company registration extract, its articles of association, and the identity documents of its directors and beneficial owners."}
+{"instruction": "What is a beneficial owner?", "output": "A beneficial owner is the real person who ultimately owns or controls a company, usually someone holding more than 25% of its shares or voting rights."}
+{"instruction": "What is a PEP?", "output": "A PEP (Politically Exposed Person) is someone with an important public role, like a minister or a judge, or a close family member of such a person. Banks apply extra checks to PEPs."}
+{"instruction": "What is sanctions screening?", "output": "It means checking that a client is not on official sanctions lists, such as the EU or UN lists. A bank cannot open an account for a sanctioned person."}
+{"instruction": "What is the difference between CDD and EDD?", "output": "CDD (Customer Due Diligence) is the standard set of KYC checks. EDD (Enhanced Due Diligence) adds extra checks for high-risk clients, such as asking where their money comes from."}
+{"instruction": "What makes a client high risk?", "output": "Being a PEP, having links to high-risk countries, having a complex ownership structure, or doing business that uses a lot of cash."}
+{"instruction": "What happens if a client refuses to give the required documents?", "output": "The bank cannot complete KYC, so it does not open the account."}
+{"instruction": "What is a red flag during onboarding?", "output": "A warning sign, such as fake or inconsistent documents, a client refusing to answer questions, or money coming from an unclear source."}
+{"instruction": "What should a bank employee do if they find a client suspicious?", "output": "They should report it to the bank's compliance team, which can report it to the authorities. They must not tell the client about the report."}
+{"instruction": "Is KYC done only once?", "output": "No. The bank keeps monitoring the client and updates their information regularly, more often for high-risk clients."}
+{"instruction": "Can a client open a bank account online?", "output": "Yes. Many banks verify identity online, for example with a photo of the ID and a selfie or short video to confirm it belongs to the client."}

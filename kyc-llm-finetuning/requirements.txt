@@ -1,0 +1,22 @@
+# Core deep-learning stack (CUDA GPU required for 4-bit loading/training)
+torch>=2.4
+transformers>=5.0,<6
+accelerate>=1.2
+bitsandbytes>=0.45
+peft>=0.18
+trl>=1.0,<2
+datasets>=3.0
+huggingface_hub>=0.30
+
+# Evaluation
+sentence-transformers>=3.0
+rouge-score>=0.1.2
+numpy
+pandas
+tabulate        # DataFrame.to_markdown for the model card
+jinja2          # pandas Styler tables
+
+# Notebook & plots
+matplotlib
+jupyter
+ipywidgets      # Hugging Face login widget / progress bars
